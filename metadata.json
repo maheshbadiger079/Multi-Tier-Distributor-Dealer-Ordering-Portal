@@ -1,0 +1,6 @@
+{
+  "name": "B2B Ordering Portal",
+  "description": "Enterprise B2B Multi-Tier Distributor & Dealer Ordering Portal simulation inspired by Pidilite distribution workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
